@@ -1,5 +1,5 @@
 
-# Shield Insurance Company – Business Performance Analysis
+# Shield Insurance Analysis – Business Performance Dashboard
 
 ## 📌 Project Overview – Case Study
 
